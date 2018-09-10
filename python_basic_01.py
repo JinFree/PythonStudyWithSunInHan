@@ -11,3 +11,7 @@ my_str = 'Python'
 count = 1  # 1
 count = count + 1  # 2
 print(count)
+python = 1
+PYTHON = 2
+파이썬 = 1
+김왼손 = 20
