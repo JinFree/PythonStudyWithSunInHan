@@ -21,3 +21,12 @@ print(students)
 
 animals = ['코알라', '하이에나', '바다소', '땅다람쥐', '바다코끼리', '스컹크', '아나콘다']
 print(animals[1])
+
+animals =['코알라', '하이에나', '바다소', '땅다람쥐', '바다코끼리', '스컹크', '아나콘다']
+print(animals)
+animals.sort()
+print(animals)
+
+animals =['코알라', '하이에나', '바다소', '땅다람쥐', '바다코끼리', '스컹크', '아나콘다']
+print(animals.count('바다소'))
+len(animals)
